@@ -50,7 +50,8 @@ Tools: Git/GitHub, Visual Studio, SSMS, JFLAP, Wokwi.
 # **Academic Profile**
 University: KIET North Campus (Karachi, Pakistan).
 
-# **Focus Areas:** AI-Integrated Security, Formal Automata, and IoT.
+# **Focus Areas:** 
+AI-Integrated Security, Formal Automata, and IoT.
 
 # **Connect with Me**
 GitHub: (https://github.com/zainab1607)
