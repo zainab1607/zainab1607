@@ -53,6 +53,6 @@ University: KIET North Campus (Karachi, Pakistan).
 # **Focus Areas:** AI-Integrated Security, Formal Automata, and IoT.
 
 # **Connect with Me**
-GitHub: github.com/zainab1607
+GitHub: (https://github.com/zainab1607)
 
 LinkedIn: (https://www.linkedin.com/in/zainab-rafique-81491936b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
