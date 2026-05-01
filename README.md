@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 I am  Zainab Rafique , a Computer Science student at the Karachi Institute of Economics and Technology (KIET). I specialize in developing intelligent and secure systems by integrating Artificial Intelligence, Information Security, and Embedded Systems.
 
