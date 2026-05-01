@@ -38,14 +38,14 @@ Architecture: Implemented using a 3-Tier Architecture (DAL, BLL, UI) with SQL Se
 
 Data Structures: Optimized with Linked Lists and Binary Search Trees (BST) for efficient data retrieval.
 
-# **Technical Toolbox**
-AI and Security: Gemini API, Phishing Detection, Network Forensics (Wireshark, Nmap).
-
-Embedded Systems: Arduino Uno, Sensor Interfacing, Circuit Analysis.
+# **Tech Stack**
+- Programming: Python, C/C++, C#, Assembly
+- Databases: SQL, SQLite
+- Tools: Arduino, GitHub, VS Code, Visual Studio
 
 Languages: Python, C/C++, C#, x86 Assembly, SQL.
 
-Tools: Git/GitHub, Visual Studio, SSMS, JFLAP, Wokwi.
+
 
 # **Academic Profile**
 University: KIET North Campus (Karachi, Pakistan).
